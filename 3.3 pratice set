@@ -1,0 +1,13 @@
+# string = input("Enter a string:")
+# print("original string:", string)
+# print("length of string:",len(string))
+# print(type(string))
+
+# string = input("enter a string : ")
+# print("First 5 character :",string[:5])
+# print("last 5 character :",string[-5:])
+# print("character from index 3 to 10",string[3:11])
+# print("ever 2nd character :",string[::2])
+# print("reversing of string:",string[::-1])
+
+
